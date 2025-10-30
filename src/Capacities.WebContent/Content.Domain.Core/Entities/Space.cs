@@ -7,6 +7,10 @@ public class Space : IDomainEntity, IHistorical
 {
     public Guid Id { get; }
     
+    public string Name { get; set; }
+
+    public Guid CapacitiesId { get; set; }
+    
     public bool IsDeleted { get; set; }
     
     public DateTime Created { get; set; }
@@ -14,8 +18,4 @@ public class Space : IDomainEntity, IHistorical
     public DateTime? Updated { get; set; }
     
     public DateTime? Deleted { get; set; }
-    
-    public string Name { get; set; }
-
-    public Guid CapacitiesId { get; set; }
 }
