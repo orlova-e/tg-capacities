@@ -1,4 +1,4 @@
-namespace Telegram.Bot.Api;
+namespace Content.Telegram.Bot.Api;
 
 public class Program
 {

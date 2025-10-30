@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capacities.Api.Client", "Capacities.Api.Client\Capacities.Api.Client.csproj", "{E28B90F3-523C-4803-BFBB-A1FDD2EA64D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content.Capacities.Api.Client", "Content.Capacities.Api.Client\Content.Capacities.Api.Client.csproj", "{E28B90F3-523C-4803-BFBB-A1FDD2EA64D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram.Bot.Api", "Telegram.Bot.Api\Telegram.Bot.Api.csproj", "{631793BB-B185-43D2-A55A-DD18EA914145}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content.Telegram.Bot.Api", "Content.Telegram.Bot.Api\Content.Telegram.Bot.Api.csproj", "{631793BB-B185-43D2-A55A-DD18EA914145}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

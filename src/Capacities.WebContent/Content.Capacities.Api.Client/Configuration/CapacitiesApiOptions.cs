@@ -1,4 +1,4 @@
-namespace Capacities.Api.Client.Configuration;
+namespace Content.Capacities.Api.Client.Configuration;
 
 public class CapacitiesApiOptions
 {

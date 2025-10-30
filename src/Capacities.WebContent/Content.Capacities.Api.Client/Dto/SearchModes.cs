@@ -1,4 +1,4 @@
-namespace Capacities.Api.Client.Dto;
+namespace Content.Capacities.Api.Client.Dto;
 
 public enum SearchModes
 {

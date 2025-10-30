@@ -1,8 +1,8 @@
-using Capacities.Api.Client.Implementation;
+using Content.Capacities.Api.Client.Implementation;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Capacities.Api.Client.Configuration;
+namespace Content.Capacities.Api.Client.Configuration;
 
 public static class CapacitiesApiClientExtensions
 {

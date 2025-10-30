@@ -1,6 +1,6 @@
-using Capacities.Api.Client.Dto;
+using Content.Capacities.Api.Client.Dto;
 
-namespace Capacities.Api.Client;
+namespace Content.Capacities.Api.Client;
 
 public interface ICapacitiesClient
 {

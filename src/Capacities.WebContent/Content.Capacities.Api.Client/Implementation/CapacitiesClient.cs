@@ -1,10 +1,10 @@
-using Capacities.Api.Client.Configuration;
-using Capacities.Api.Client.Dto;
+using Content.Capacities.Api.Client.Configuration;
+using Content.Capacities.Api.Client.Dto;
 using Flurl.Http;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Capacities.Api.Client.Implementation;
+namespace Content.Capacities.Api.Client.Implementation;
 
 internal class CapacitiesClient : ICapacitiesClient
 {

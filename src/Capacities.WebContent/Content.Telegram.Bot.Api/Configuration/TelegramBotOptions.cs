@@ -1,4 +1,4 @@
-namespace Telegram.Bot.Api.Configuration;
+namespace Content.Telegram.Bot.Api.Configuration;
 
 public class TelegramBotOptions
 {

@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace Capacities.Api.Client.Dto;
+namespace Content.Capacities.Api.Client.Dto;
 
 public record GetAllStructuresDto
 {
